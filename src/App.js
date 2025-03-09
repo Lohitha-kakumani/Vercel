@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div style={containerStyle}>
-      <h1 style={{ fontSize: "2rem", marginBottom: "10px" }}>Coming Soon</h1>
+      <h1 style={{ fontSize: "2rem", marginBottom: "10px" }}>Coming Soon - updatedversion</h1>
       <p style={{ fontSize: "1rem", marginBottom: "20px" }}>
         We're working hard to bring you something amazing. Stay tuned!
       </p>
